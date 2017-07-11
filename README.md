@@ -1,5 +1,6 @@
 # Via-Appia
 Pathfinding algorithm using D* lite with limited scope
+
 Created by Kevin Wang, Justin Lin, Aakash Parikh
 
 There are many different kinds of maze solving algorithms. Our implementation of D*Lite enables the scope feature to analyze obstacles within sight.
